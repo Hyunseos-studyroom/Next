@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+1:45:01까지
+https://www.youtube.com/watch?v=0OaDyjB9Ib8&t=1091s
+
 ## Getting Started
 
 First, run the development server:
