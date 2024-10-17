@@ -3,5 +3,5 @@
 
 ## Notion Clone Coding
 [![code](https://img.youtube.com/vi/0OaDyjB9Ib8/0.jpg)](https://www.youtube.com/watch?v=0OaDyjB9Ib8&t=1091s) <br />
-[Github](https://github.com/Hyunseos-studyroom/Next/notion-clone) <br />
+[Github](https://github.com/Hyunseos-studyroom/Next/tree/main/notion-clone) <br />
 [WebSite](#) <br />
