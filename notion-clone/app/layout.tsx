@@ -4,6 +4,7 @@ import "./globals.css";
 import {ThemeProvider} from "@/components/provider/theme-provider";
 import {ConvexProvider} from "convex/react";
 import {ConvexClientProvider} from "@/components/provider/convex-provider";
+import {Toaster} from "sonner";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -51,6 +52,7 @@ export default function RootLayout({
           disableTransitionOnChange
           storageKey="jotion-theme-2"
           >
+            <Toaster position="bottom-center" />
             {children}
           </ThemeProvider>
         </ConvexClientProvider>
