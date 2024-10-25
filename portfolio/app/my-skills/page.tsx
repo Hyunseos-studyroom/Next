@@ -15,15 +15,14 @@ const Page = () => {
             <div className="flex flex-col gap-20 max-w-[80%] text-center items-center">
                 <div className="flex flex-col items-center gap-4">
                     <h1 className="font-semibold text-white text-[50px]">
-                        Skills{" "}
+                        밑에 있는 것들을 할 순 있는데, <br />
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
               {" "}
-                            &{" "}
+                            할 줄 모릅니다.{" "}
             </span>
-                        Technologies
                     </h1>
                     <p className="text-gray-400 text-[20px]">
-                        Using the latest tech this world has to offer
+                        프론트 열심히 해야지..
                     </p>
                 </div>
                 <Swiper

@@ -10,7 +10,7 @@ const Navbar = () => {
                     <Image src={"/horseLogo.jpg"} alt={"logo"} width={40} height={40}
                        className={"w-full h-full object-contain rounded-full"}/>
                 </div>
-                <h1 className={"text-white text-[25px] font-semibold"}>Webchain Dev</h1>
+                <h1 className={"text-white text-[25px] font-semibold"}>말</h1>
             </div>
             <div className={"flex flex-row gap-5 mb-2"}>
                 {Socials.map((social) => (
