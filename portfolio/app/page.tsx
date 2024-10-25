@@ -74,6 +74,10 @@ export default function Home() {
               <Image src={"/cliff.webp"} alt={"cliff"} height={400} width={400} />
           </div>
 
+          <div className={"absolute bottom-0 h-full w-full z-[5]"}>
+              <Image src={"/trees.webp"} alt={"trees"} width={2000} height={2000} className={"absolute right-55 top-40"} />
+          </div>
+          <Image src={"/stars.png"} alt={"stars"} height={300} width={300} className={"absolute top-10 left-0 z-[10]"} />
       </main>
   );
 }
