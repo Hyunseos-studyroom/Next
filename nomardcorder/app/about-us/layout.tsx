@@ -1,5 +1,9 @@
 import Navigation from "@/components/navigation";
 
+export const metadata = {
+    title: "About us",
+};
+
 export default function AboutUsLayout({
     children,
 }: Readonly<{
